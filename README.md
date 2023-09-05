@@ -1,10 +1,10 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/MarieElisa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Marie+-+Elisa" alt="Typing SVG" /></a>
+    <a href="https://github.com/MarieElisa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E89A6F&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Marie+-+Elisa" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/MarieElisa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Software+Developer+in+training;Python+enthusiast;Animal Crossing devotee since 2004;Chronically sleep deprived;Can't+write+&#34ingeeneer&#34" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
+    <a href="https://github.com/MarieElisa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFC98B&center=true&vCenter=true&width=435&lines=Software+Developer+in+training;Python+enthusiast;Animal Crossing devotee since 2004;Chronically sleep deprived;Can't+write+&#34ingeeneer&#34" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
 </p>
 
 <p style="color: #FFDEAD">
