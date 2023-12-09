@@ -22,7 +22,6 @@
         <ul>
           <!-- <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li> -->
           <li><a href="https://github.com/MarieElisa/CS50-Projects" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">CS50 Projects</a></li>
-          <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">The Clown Project</a></li>
         </ul>
     </div>
 </details>
