@@ -8,7 +8,7 @@
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm a junior general engineer and I decided to redirect my career towards software development. I only recently started my coding journey, but look out for my future projects! Here is my email <a href="mailto:marie-elisa.biays@outlook.com" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">marie-elisa.biays@outlook.com</a>  for any inquiries.
+👋 Welcome to my GitHub! I'm a junior general engineer and I decided to redirect my career towards IT. I only recently started my coding journey, but look out for my future projects! Here is my email <a href="mailto:marie-elisa.biays@outlook.com" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">marie-elisa.biays@outlook.com</a>  for any inquiries.
 </p>
 
 <hr>
