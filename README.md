@@ -67,26 +67,14 @@
         <li><h2 style="color: #FFDEAD">My Workflow</h2>
         <ul>
             <li style="display:inline"><a href="https://code.visualstudio.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">VSCode</a></li>
-            <li style="display:inline"> <a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
             <li style="display:inline"><a href="https://discord.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Discord</a></li>
-            <li style="display:inline"><a href="https://open.spotify.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Spotify</a></li>
         </ul>
         <li><h2 style="color: #FFDEAD">My Fav Fullstack Tools</h2>
             <ul>
                 <li style="display:inline"><a href="https://react.dev/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">React</a></li>
                 <li style="display:inline"><a href="https://github.com/css-modules/css-modules"style="color: #FFD700"target="_blank" rel="noopener noreferrer">CSS Modules</a></li>
-                <li style="display:inline"><a href="https://www.mongodb.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MongoDB</a></li>
                 <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub</a></li>
-            </ul>
-        <li><h2 style="color: #FFDEAD">Resources for this Readme</h2>
-        <ul>
-            <li style="display:inline"><a href="https://github.com/kittinan/spotify-github-profile"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Display Spotify Activity</a></li>
-            <li style="display:inline"><a href="https://github.com/anuraghazra/github-readme-stats"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub Readme Stats</a></li>
-            <li style="display:inline"><a href="https://github.com/DenverCoder1/readme-typing-svg"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Typing "Animation"</a></li>
-            <li style="display:inline"><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Collection of Great Readme's!</a></li>
-            <li style="display:inline"><a href="https://giphy.com" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Find Gifs!</a></li>
-            <li style="display:inline"><a href="https://gist.github.com/rxaviers/7360908" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Emojis for MD/Copy and Paste</a></li>
-    </ul> 
+            </ul> 
 
 </details>
 
