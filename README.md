@@ -13,28 +13,28 @@
 
 <hr>
 
-<details closed display="flex" align-items="center" color="#FFDEAD">
+<!--<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary >
         <img alt="Whispering..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVmcXV2b2Z4Y3VnZXE2NGQydzh4dnUweXBtNTZ6amxxM256MnBldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fj61smdtMveW3qRDVQ/giphy.gif" width="60" height="60" style="display: inline-block; vertical-align:-1em">
-        <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
+          <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
     </summary>
     <div>
         <ul>
-          <!-- <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li> -->
+          (<li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>)
           <li><a href="https://github.com/MarieElisa/CS50-Projects" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">CS50 Projects</a></li>
         </ul>
     </div>
-</details>
+</details> -->
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhlc29pbW9icXNyMHphaGtveWRrMXdjN255djB5c2J4MmdpeXBtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX06XBY33xV6DMv3JG/giphy.gif" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhlc29pbW9icXNyMHphaGtveWRrMXdjN255djB5c2J4MmdpeXBtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX06XBY33xV6DMv3JG/giphy.gif" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em"> 
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Languages and Tools </h1>
     </summary>
     <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </details>
 
-<details closed display="flex" align-items="center" color="#FFDEAD">
+<!-- <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0weno4ZHUycWhyZTE5bzF4NjE4cDdpMjY4YWo3eGp6ems4ZTN2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aw34YEe0wLsYHjjoi/giphy.gif" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
@@ -76,7 +76,7 @@
                 <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub</a></li>
             </ul> 
 
-</details>
+</details> -->
 
 <hr>
 
