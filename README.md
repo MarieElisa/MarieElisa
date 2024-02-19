@@ -11,9 +11,9 @@
 👋 Welcome to my GitHub! I'm a junior general engineer and I decided to redirect my career towards IT. I only recently started my coding journey, but look out for my future projects! Here is my email <a href="mailto:marie-elisa.biays@outlook.com" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">marie-elisa.biays@outlook.com</a>  for any inquiries.
 </p>
 
-<hr>
+<!--<hr>
 
-<!--<details closed display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary >
         <img alt="Whispering..." src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVmcXV2b2Z4Y3VnZXE2NGQydzh4dnUweXBtNTZ6amxxM256MnBldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fj61smdtMveW3qRDVQ/giphy.gif" width="60" height="60" style="display: inline-block; vertical-align:-1em">
           <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
